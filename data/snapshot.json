@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-03-05T21:54:09.109456Z",
+  "built_at": "2026-03-06T10:56:03.930071Z",
   "groups": {
     "Indices": [
       {
@@ -157,7 +157,7 @@
       {
         "ticker": "ETHA",
         "daily": -2.77,
-        "intra": -1.19,
+        "intra": -1.25,
         "5d": 3.34,
         "20d": -3.3,
         "atr_pct": 6.7,
@@ -262,7 +262,7 @@
         "intra": -0.73,
         "5d": -2.97,
         "20d": 2.85,
-        "atr_pct": 1.9,
+        "atr_pct": 2.0,
         "dist_sma50_atr": 0.61,
         "rs": 25.0,
         "rs_chart": "data/charts/IJK.png",
@@ -523,11 +523,11 @@
       {
         "ticker": "RSPC",
         "daily": -0.03,
-        "intra": -0.32,
+        "intra": -0.33,
         "5d": 2.07,
         "20d": 3.95,
         "atr_pct": 1.2,
-        "dist_sma50_atr": 1.2,
+        "dist_sma50_atr": 1.19,
         "rs": 100.0,
         "rs_chart": "data/charts/RSPC.png",
         "long": [],
@@ -583,7 +583,7 @@
         "5d": -3.44,
         "20d": -3.41,
         "atr_pct": 1.7,
-        "dist_sma50_atr": -1.37,
+        "dist_sma50_atr": -1.36,
         "rs": 15.0,
         "rs_chart": "data/charts/RSPD.png",
         "long": [],
@@ -611,7 +611,7 @@
         "5d": -1.12,
         "20d": 2.89,
         "atr_pct": 1.2,
-        "dist_sma50_atr": 1.97,
+        "dist_sma50_atr": 1.96,
         "rs": 90.0,
         "rs_chart": "data/charts/RSPR.png",
         "long": [],
@@ -667,7 +667,7 @@
         "5d": 2.95,
         "20d": 9.66,
         "atr_pct": 2.1,
-        "dist_sma50_atr": 6.32,
+        "dist_sma50_atr": 6.31,
         "rs": 100.0,
         "rs_chart": "data/charts/RSPG.png",
         "long": [],
@@ -825,7 +825,7 @@
       {
         "ticker": "IGV",
         "daily": 2.3,
-        "intra": 2.31,
+        "intra": 2.3,
         "5d": 6.08,
         "20d": 4.51,
         "atr_pct": 3.2,
@@ -839,7 +839,7 @@
       {
         "ticker": "WCLD",
         "daily": 3.58,
-        "intra": 3.29,
+        "intra": 3.65,
         "5d": 5.96,
         "20d": 4.8,
         "atr_pct": 3.9,
@@ -913,7 +913,7 @@
       {
         "ticker": "IYZ",
         "daily": -1.83,
-        "intra": -0.59,
+        "intra": -0.6,
         "5d": 2.16,
         "20d": 7.71,
         "atr_pct": 1.7,
@@ -1079,7 +1079,7 @@
         "5d": -4.05,
         "20d": -0.14,
         "atr_pct": 1.5,
-        "dist_sma50_atr": -2.94,
+        "dist_sma50_atr": -2.95,
         "rs": 40.0,
         "rs_chart": "data/charts/IHI.png",
         "long": [],
@@ -1311,7 +1311,7 @@
         "5d": 1.52,
         "20d": -1.09,
         "atr_pct": 2.3,
-        "dist_sma50_atr": -2.65,
+        "dist_sma50_atr": -2.62,
         "rs": 60.0,
         "rs_chart": "data/charts/IPAY.png",
         "long": [],
@@ -1373,7 +1373,7 @@
         "daily": 0.3,
         "intra": 0.54,
         "5d": -2.63,
-        "20d": -1.63,
+        "20d": -1.64,
         "atr_pct": 1.1,
         "dist_sma50_atr": -0.34,
         "rs": 10.0,
@@ -1417,7 +1417,7 @@
       {
         "ticker": "ICLN",
         "daily": -1.66,
-        "intra": -0.75,
+        "intra": -0.78,
         "5d": -4.71,
         "20d": -5.07,
         "atr_pct": 3.1,
@@ -1520,10 +1520,10 @@
       },
       {
         "ticker": "PBJ",
-        "daily": -1.17,
+        "daily": -1.18,
         "intra": -0.53,
         "5d": -3.43,
-        "20d": -1.25,
+        "20d": -1.26,
         "atr_pct": 1.2,
         "dist_sma50_atr": 1.73,
         "rs": 10.0,
@@ -1557,7 +1557,7 @@
         "5d": 7.11,
         "20d": 9.63,
         "atr_pct": 1.6,
-        "dist_sma50_atr": 6.82,
+        "dist_sma50_atr": 6.81,
         "rs": 100.0,
         "rs_chart": "data/charts/DBC.png",
         "long": [],
@@ -1655,10 +1655,10 @@
       {
         "ticker": "PPH",
         "daily": -2.31,
-        "intra": -1.21,
+        "intra": -1.06,
         "5d": -2.89,
         "20d": -2.12,
-        "atr_pct": 1.6,
+        "atr_pct": 1.7,
         "dist_sma50_atr": -0.5,
         "rs": 10.0,
         "rs_chart": "data/charts/PPH.png",
@@ -1675,7 +1675,7 @@
         "5d": 4.07,
         "20d": 1.22,
         "atr_pct": 2.0,
-        "dist_sma50_atr": -0.49,
+        "dist_sma50_atr": -0.48,
         "rs": 100.0,
         "rs_chart": "data/charts/FNGS.png",
         "long": [
@@ -1761,7 +1761,7 @@
       {
         "ticker": "EWA",
         "daily": -2.52,
-        "intra": -0.75,
+        "intra": -0.76,
         "5d": -5.08,
         "20d": 0.92,
         "atr_pct": 1.8,
@@ -2278,7 +2278,7 @@
       ],
       "intra": [
         -3.89,
-        3.29
+        3.65
       ],
       "5d": [
         -12.68,
